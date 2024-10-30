@@ -1,0 +1,9 @@
+{
+  "name": "libraryApp-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/libraryApp-e2e/src",
+  "implicitDependencies": ["libraryApp"],
+  "// targets": "to see all targets run: nx show project libraryApp-e2e --web",
+  "targets": {}
+}
